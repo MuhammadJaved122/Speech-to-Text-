@@ -1,0 +1,1 @@
+pip install tkinter threading speech_recognition nltk gtts pygame customtkinter
